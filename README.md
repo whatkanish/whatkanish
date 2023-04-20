@@ -11,3 +11,6 @@
 - 😄 Pronouns: KANISHTHIKA SHE/HER...
 - ⚡ Fun fact: I wanted to be a artist or designer but turned into a techie cloud nerdy artist ...
 -->
+
+HEY GO CHECK THIS FOR RESUME
+https://kabutuu.github.io/
