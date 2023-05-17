@@ -1,6 +1,6 @@
 <h1>Hello, I am KANISHTHIKA 👋</h1>
 <br>
-<>bThanks for stopping by. Here's a little bit about myself..</b>
+<b>Thanks for stopping by. Here's a little bit about myself..</b>
 <br.
 
 
