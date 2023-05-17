@@ -17,4 +17,4 @@
 <br>
 HEY GO CHECK THIS FOR RESUME
 still under construction 🚧 
-https://kabutuu.github.io/
+https://neardycloud.github.io/
