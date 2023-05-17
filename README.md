@@ -1,4 +1,4 @@
-<b>Hello, I am KANISHTHIKA 👋<b>
+<b>Hello, I am KANISHTHIKA 👋</b>
 Thanks for stopping by. Here's a little bit about myself..
 
 
