@@ -1,6 +1,7 @@
 <h1>Hello, I am KANISHTHIKA 👋</h1>
 <br>
-Thanks for stopping by. Here's a little bit about myself..
+<>bThanks for stopping by. Here's a little bit about myself..</b>
+<br.
 
 
 - 🔭 I’m currently working on cloud computing and devops ...
