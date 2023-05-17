@@ -1,8 +1,7 @@
 <h1>Hello, I am KANISHTHIKA 👋</h1>
 <br>
-<b>Thanks for stopping by. Here's a little bit about myself..</b>
-<br.
-
+<h2>Thanks for stopping by. Here's a little bit about myself..</h2>
+<br>
 
 - 🔭 I’m currently working on cloud computing and devops ...
 - 🌱 I’m currently learning about Devops tools ,AI , AWS & AZURE...
@@ -15,7 +14,7 @@
 - ⚡ Fun fact: I wanted to be a artist or designer but turned into a techie cloud nerdy artist ...
 - 
 -->
-
+<br>
 HEY GO CHECK THIS FOR RESUME
 still under construction 🚧 
 https://kabutuu.github.io/
