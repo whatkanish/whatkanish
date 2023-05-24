@@ -2,6 +2,7 @@
 <br>
 <h2>Thanks for stopping by. Here's a little bit about myself..</h2>
 <br>
+<img src="C:\Users\hp\OneDrive\Desktop\kabutuu\kabutuuzen\152026782_792565005154356_3472313199921614016_n.png" alt="Italian Trulli">
 
 - 🔭 I’m currently working on cloud computing and devops ...
 - 🌱 I’m currently learning about Devops tools ,AI , AWS & AZURE...
