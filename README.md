@@ -20,4 +20,4 @@ HEY GO CHECK THIS FOR RESUME
 still under construction 🚧 
 https://neardycloud.github.io/
 
-<H2>COLLABORATE  https://bio.link/kanishthika <H2>
+#<H2>COLLABORATE  #https://bio.link/kanishthika# <H2>
