@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KANISHTHIKA</h1>
 <h2>Thanks for stopping by. Here's a little bit about myself..</h2>
-<h3 align="center">AN ENTHUSIASTIC CLOUD AND DEVOPS LERNER</h3>
+<h3 align="center">AN ENTHUSIASTIC CLOUD AND DEVOPS LEARNER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdycloud&label=Profile%20views&color=0e75b6&style=flat" alt="nerdycloud" /> </p>
 
