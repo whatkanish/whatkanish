@@ -13,15 +13,13 @@
 - 👯 I’m looking to collaborate on **Devops and cloud projects**
 
 - 👨‍💻 All of my projects are available at [https://bio.link/kanishthika](https://bio.link/kanishthika)
-
+### Blogs posts
 - 📝 I regularly write articles on [https://hashnode.com/@kanishthika](https://hashnode.com/@kanishthika)
  👯 collaborate on https://www.linkedin.com/in/kanishthika-singh-77530323a/...
 - 📫 How to reach me **Kanishthika2001@gmail.com**
  ⚡ Fun fact: I wanted to be a artist or designer but turned into a techie cloud nerdy artist ...
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
