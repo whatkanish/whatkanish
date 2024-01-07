@@ -40,12 +40,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whatkanish&" alt="nerdycloud" /></p>
 HEY GO CHECK THIS FOR RESUME
-still under construction 🚧 
-https://whatkanish.github.io/
+-
+
 <H2>COLLABORATE  https://bio.link/kanishthika </H2>
 <H2> BLOGS   https://whatkanish.in </H2>
 
-#<H2>COLLABORATE  https://bio.link/kanishthika </H2>
 
 
 
