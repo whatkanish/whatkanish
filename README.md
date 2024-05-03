@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KANISHTHIKA</h1>
+<h1 align="center">Hi My name is Kanishthika </h1>
 <h2>Thanks for stopping by. Here's a little bit about myself..</h2>
 <h3 align="center">AN ENTHUSIASTIC LEARNER</h3>
 
