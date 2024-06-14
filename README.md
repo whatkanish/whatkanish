@@ -12,12 +12,12 @@
 
 - 👯 I’m looking to collaborate on **CLOUD projects**
 
-- 👨‍💻 All of my projects are available at [https://bio.link/kanishthika](https://bio.link/kanishthika)
+- 👨‍💻 All about me at [https://bio.link/kanishthika](https://bio.link/kanishthika)
 ### Blogs posts
-- 📝 I regularly write articles on [https://hashnode.com/@kanishthika](https://hashnode.com/@kanishthika)
- 👯 collaborate on https://www.linkedin.com/in/kanishthika-singh-77530323a/...
-- 📫 How to reach me **Kanishthika2001@gmail.com**
- ⚡ Fun fact: I am just a human being ...
+- 📝 I regularly write articles on [https://whatkanish.in/](https://whatkanish.in/)
+ 👯 collaborate on https://www.linkedin.com/in/kanishthika/
+- 📫 Connect **Kanishthika2001@gmail.com**
+ ⚡ Fun fact: HAHAHA ...
 
 
 
@@ -38,7 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whatkanish&show_icons=true&locale=en" alt="nerdycloud" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whatkanish&" alt="nerdycloud" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whatkanish&" alt="whatkanish" /></p>
 HEY GO CHECK THIS FOR RESUME
 -
 
