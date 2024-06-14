@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ** ANALYTICS **
 
-- 🌱 I’m currently learning **AWS AZURE AND MLOPS**
+- 🌱 I’m currently learning **AWS AZURE AND GCP**
 
 - 👯 I’m looking to collaborate on **CLOUD projects**
 
@@ -17,7 +17,7 @@
 - 📝 I regularly write articles on [https://hashnode.com/@kanishthika](https://hashnode.com/@kanishthika)
  👯 collaborate on https://www.linkedin.com/in/kanishthika-singh-77530323a/...
 - 📫 How to reach me **Kanishthika2001@gmail.com**
- ⚡ Fun fact: I wanted to be a artist But i am living as a Techie ...
+ ⚡ Fun fact: I am just a human being ...
 
 
 
